@@ -1,0 +1,32 @@
+# Dependencias
+node_modules/
+venv/
+.env
+__pycache__/
+*.pyc
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
+
+# Editores
+.vscode/
+.idea/
+*.sublime-*
+
+# Builds y distribuciones
+dist/
+build/
+*.exe
+*.zip
+*.tar.gz
+
+# Logs
+logs/
+*.log
+
+# Variables de entorno
+.env
+.env.local
+.env.development
+.env.production
